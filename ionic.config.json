@@ -1,0 +1,8 @@
+{
+  "name": "brisbane-kirtan-program-app",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
